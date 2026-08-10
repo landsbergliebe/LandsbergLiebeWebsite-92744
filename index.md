@@ -35,7 +35,7 @@ FAQ
 
 ## Wie unterstützt mein Kauf das Projekt?
 
-### Mit Deinem Kauf unterstützt Du die Fertigstellung und Produktion des Reiseführers. Die Einnahmen fließen unter anderem in Gestaltung, Druck, Vertrieb und Marketing, damit LandsbergLiebe möglichst viele Menschen erreichen kann – in Landsberg und darüber hinaus.
+### Mit Deinem Kauf unterstützt Du die Vermarktung und den Vertrieb von LandsbergLiebe sowie zukünftige Projekte. Die Einnahmen fließen unter anderem in Gestaltung, Druck, Vertrieb und Marketing, damit LandsbergLiebe möglichst viele Menschen erreichen kann – in Landsberg und darüber hinaus.
 
 ## Wen unterstütze ich?
 
