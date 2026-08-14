@@ -11,11 +11,11 @@ date: 2026-06-11
 
 #### **120 Seiten · 60 Orte · 1 Buch**
 
-### **20€**
+### **25€**
 
-#### Vorbestellen
+#### Jetzt kaufen
 
-**Über den Link „Vorbestellen“ kannst Du weitere Produkte zu Deiner Bestellung hinzufügen. Das Buch wird voraussichtlich Ende August / Anfang September 2026 versendet.**
+**Über den Link „Jetzt kaufen“ kannst Du weitere Produkte zu Deiner Bestellung hinzufügen. Der Reiseführer ist ab sofort erhältlich und wird nach Bestellung versendet.**
 
 **Akzeptierte Zahlungsarten**
 
@@ -23,9 +23,9 @@ date: 2026-06-11
 
 ### Dieses Buch ist eine Einladung, Landsberg mit offenen Augen zu entdecken. Persönliche Empfehlungen, stimmungsvolle Illustrationen und besondere Lieblingsorte führen zu bekannten Sehenswürdigkeiten ebenso wie zu versteckten Ecken der Stadt. 
 
-Entstanden ist ein hochwertiger Reiseführer für Einheimische, Besucher und alle, die Landsberg am Lech lieben oder neu kennenlernen möchten. Der Reiseführer befindet sich aktuell in der finalen Produktionsphase und kann bereits vorbestellt werden.
+Entstanden ist ein hochwertiger Reiseführer für Einheimische, Besucher und alle, die Landsberg am Lech lieben oder neu kennenlernen möchten. Der Reiseführer ist fertiggestellt und ab sofort erhältlich.
 
-Mit Deiner Bestellung unterstützt Du die Umsetzung dieses Herzensprojekts und den letzten Schritt bis zur Veröffentlichung.
+Mit Deiner Bestellung unterstützt Du die Verbreitung von LandsbergLiebe sowie zukünftige Projekte rund um unsere Lieblingsstadt.
 
 # Weitere Produkte
 
