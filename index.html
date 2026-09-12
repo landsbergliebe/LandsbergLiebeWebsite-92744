@@ -157,6 +157,16 @@ a[href*="framer.com/templates"],a[href*="framer.com/marketplace"]{display:none!i
   }).observe(document.documentElement,{childList:true,subtree:true});
 })();
 </script>
+	<script>
+document.addEventListener('click', function(e) {
+  var a = e.target.closest && e.target.closest('a[href^="./shop/"], a[href^="/shop/"]');
+  if (a && a.href) {
+    e.stopImmediatePropagation();
+    e.preventDefault();
+    window.location.href = a.href;
+  }
+}, true);
+</script>
 	<meta charset="utf-8">
 	
 	
