@@ -1,13 +1,13 @@
 {
   "tool": "FramerClone",
   "version": "1.0.0",
-  "clonedAt": "2026-10-06T11:41:09.682Z",
+  "clonedAt": "2026-10-06T12:12:16.031Z",
   "sourceUrl": "https://hilarious-work-663382.framer.app/",
   "stats": {
     "pages": 11,
-    "assets": 434,
-    "totalSize": 23305457,
-    "duration": 19839
+    "assets": 450,
+    "totalSize": 26266010,
+    "duration": 15269
   },
   "migrate": false
 }
